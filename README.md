@@ -45,6 +45,6 @@ The primary data source for this project was the **SEC EDGAR database**, which p
 
 ## Contact
 For any queries or collaborations, feel free to reach out:
-- **Email:** Hoorain Mahtab [nasreen888811@gmail.com]
-- **LinkedIn:** Hoorain Mahtab [https://www.linkedin.com/in/hoorainmahtab/]
+- **Email:** [Hoorain Mahtab] [nasreen888811@gmail.com]
+- **LinkedIn:** [Hoorain Mahtab] [https://www.linkedin.com/in/hoorainmahtab/]
 
